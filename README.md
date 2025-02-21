@@ -17,8 +17,8 @@ Currently, my focus is on client-side development, creating responsive and inter
 
 <!-- Projects -->
 ### 🚀 Projects
-- **[Project Name](https://github.com/lianecagara/project-name)**: A brief description of the project.
-- **[Another Project](https://github.com/lianecagara/another-project)**: A brief description of another project.
+- **[Cassidy Redux](https://github.com/lianecagara/CassidyRedux)**: Revamped ver of CassidyBoT
+- **[Cassidy BoT](https://github.com/lianecagara/CassidyBoT-Clean)**: Self explanatory
 
 <!-- Skills -->
 ### 🛠️ Skills
